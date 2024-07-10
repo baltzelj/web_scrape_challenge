@@ -30,3 +30,9 @@ Each of the original files attached started with preliminary code instructions. 
 
 ### Figures and Data
 Below are the data and figures that are part of the mars_data.csv file. These figures show how the data was analyzed, and what was measured.
+The figure below shows the changes in Mars's monthly temperatures based on the low temperatures.
+![mars_month_temps.png]
+The figure below shows the pressure changes on Mars from month to month.
+![pressure_changes.png]
+This figure depicts the temperature changes on mars from day to day based on the terrestrial date on mars.
+![temp_changes.png]
